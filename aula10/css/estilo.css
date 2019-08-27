@@ -1,0 +1,37 @@
+/***estilizando formularios***/
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+/*formatando fieldset*/
+fieldset {
+	margin: 1em 0;
+	padding: 1em;
+	border: 1px solid #ccc;
+	background: #f8f8f8;
+}
+
+/*formatando legend*/
+legend {
+	font-weight: bold;
+}
+
+/*formatando os labels*/
+label {
+	display: block;/*o conteudo da label será exibido acima da caixa de texto*/
+	cursor: pointer;/*ao passar o mouse sobre a label aparecerá uma mão sobre o cursor*/
+}
+
+/*formatando as caixas de textos*/
+input [type="text"] {/*seletor de atributo(seleciona somente atributos que é do tipo -text-)*/
+	width: 20em;
+}
+
+textarea {
+	width: 20em;
+	height: 10em;
+}
+
+.radio {
+	margin-right: 1em;
+}
