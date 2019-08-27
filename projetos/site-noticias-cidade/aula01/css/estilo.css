@@ -1,0 +1,32 @@
+/***estrutura do site***/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*formatando o corpo do site*/
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #fff url(../imagens/fundo.png) repeat-x;
+}
+
+/*formatando a -div- principal*/
+	#container {
+		width: 750px;
+		margin: 0 auto;
+		/*border: 1px solid red; */
+	}
+
+	/*formatando a estrutura onde ficará a logo e a barra de navegaçao do site*/
+	#topo {
+		height: 150px;
+		background: url(../imagens/detalhe-topo.png) no-repeat right top;
+		padding-top: 25px; 
+		/*border: 1px solid red; */
+	}
+	.logo {
+		width: 152px;
+		height: 66px;
+		background: url(../imagens/logo.png) no-repeat center;
+		text-indent: -3000px;/*enpurra o texto para esquerda, caso o css nao carregue o texto será exibido*/
+	}
