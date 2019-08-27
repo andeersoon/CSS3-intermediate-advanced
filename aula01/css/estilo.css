@@ -1,0 +1,22 @@
+/*** barra de navegação vertical ***/
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+ul a {
+	width: 200px; /*a imagem possui 400pixels de largura*/
+	height: 40px; /*por 40pixels de altura*/
+	color: #000;
+	text-decoration: none;
+	text-indent: 40px;
+	line-height: 40px;
+	display: block;/*os links sao elementos inline, iremos fazer a conversao e transforma-los em elementos de blocos*/
+	background: url(../imagens/menu.png) no-repeat left bottom ;
+}
+
+a:hover {
+	background-position: right bottom; /*quando o mouse passar sobre a imagem ela ira se mover 200pixels para esquerda*/
+	color: #fff;
+}
