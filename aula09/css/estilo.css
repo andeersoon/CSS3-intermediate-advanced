@@ -1,0 +1,40 @@
+/***estilizando tabelas***/
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+/*formatando a tabela*/
+table {
+	width: 600px;
+	border-collapse: collapse; /*deixa as bodas uma colada na outra*/
+}
+
+/*formatando os titulos e os dados*/
+th, td {
+	/*border: 1px solid black; */
+	padding: 7px;
+}
+
+/*formatando os cabeçalhos da tabela*/
+th {
+	text-transform: uppercase;/*deixa todas as letras em caixa alta*/
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #111;
+	text-align: left;
+	font-size: 90%;
+	letter-spacing: 0.1em;/*espaçamento maior entre as letras*/
+}
+
+tr.alternando {
+	background: #efefef;
+}
+
+/*mostra ao usuario em qual linha da tabela ele esta*/
+tr:hover {
+	background-color: #c3e6e5;
+}
+
+/*alinhando os preços dos produtos a direita*/
+.preco {
+	text-align: right;
+}
