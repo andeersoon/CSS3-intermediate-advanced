@@ -1,0 +1,42 @@
+/***barra de navegaçao com abas***/
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+/*configura -ul-*/
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 720px;
+}
+
+/*configura os elementos dentro de -ul- e -li-, serao visualizados um ao lado do outro*/
+ul li {
+	float: left;
+	background: url(../imagens/aba-direita.png) no-repeat top right;
+}
+
+/*configurando o espaçamento do menu*/
+li a {
+	display: block;
+	padding: 0 2em;
+	line-height: 3em;
+	text-decoration: none;
+	background: url(../imagens/aba-esquerda.png) no-repeat top left;
+	color: #fff;
+}
+
+/*configura o comportamento do menu quando o mouse estiver sobre o link*/
+ul a:hover {
+	color: #894a1f;
+}
+
+/*marca pagina de navegaçao atual*/
+ul #atual {
+	background: url(../imagens/aba-direita-atual.png) no-repeat top right;: 
+}
+
+ul #atual a {
+	background: url(../imagens/aba-esquerda-atual.png) no-repeat top left;
+}
