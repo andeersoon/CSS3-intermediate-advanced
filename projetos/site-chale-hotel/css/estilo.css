@@ -14,6 +14,9 @@ body {
 /*formatando id container*/
 #container {
 	background: #ede9cc;
+	margin: 0 auto;
+	min-width: 740px;
+	max-width: 1180px;
 }
 
 /*formatando id topo*/
@@ -32,6 +35,19 @@ body {
 	height: 250px;
 	top: 0;
 	left: 0;
+	z-index: 1;
+}
+
+/*formatando classe logo*/
+.logo a {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	z-index: 3;
+	background: url(../imagens/logo.png) no-repeat;
+	width: 151px;
+	height: 66px;
+	text-indent: -9000px; /*reindenta o texto do link na tela*/
 }
 
 /*formatando id area-menu*/
@@ -42,4 +58,38 @@ body {
 	height: 250px;
 	top: 0;
 	right: 0;
+	z-index: 2;
+}
+
+/*formatando id conteudo do menu*/
+#conteudo-menu {
+	margin-left: 90px;
+	margin-right: 15px;
+	padding-top: 15px; 
+}
+
+/*formatando menu locais*/
+#menu-locais {
+	border-bottom: 1px solid #b5ab56;
+	border-top: 1px solid #b5ab56;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font-size: 0.7em;
+	color: #8b8448;
+}
+#menu-locais .locais {
+	float: left;
+	line-height: 2.1em;
+}
+
+a {
+	text-decoration: none;
+}
+/*formatando botão reservar*/
+a.reserva {
+	text-transform: uppercase;
+	background: #a29750;
+	color: #fff5b0;
+	padding: 5px 10px;
+	float: right;
 }

@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/5. CSS3 Intermediário & avançado/1-projetos/CSS3 Intermediário & avançado/20. Site Chale Hotel/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/5. CSS3 Intermediário & avançado/1-projetos/CSS3 Intermediário & avançado/20. Site Chale Hotel/css/estilo.css",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/5. CSS3 Intermediário & avançado/1-projetos/CSS3 Intermediário & avançado/chale-hotel/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/5. CSS3 Intermediário & avançado/1-projetos/CSS3 Intermediário & avançado/chale-hotel/css/estilo.css",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/5. CSS3 Intermediário & avançado/1-projetos/CSS3 Intermediário & avançado/02. Marcando página atual/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/5. CSS3 Intermediário & avançado/1-projetos/CSS3 Intermediário & avançado/01. Criando barra de navegação vertical/css/estilo.css",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/09. Cor e imagem de fundo/cor-imagem-fundo.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/08. Estillos de textos/estilos-textos.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/07. Tamanhos de textos/tamanhos-textos.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/05. Bordas/bordas.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/06. Fontes & cores/fontes-cores.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/04. Tags Div & Span/div-span.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/03. Classes e IDs/classes-ids.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/03. Classes e IDs/inline-style.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/02. Seletores CSS/seletores-css.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/01. Inline CSS/inline_style.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/14. ProjetoFinalUnes/contato.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/14. ProjetoFinalUnes/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/14. ProjetoFinalUnes/quem-somos.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/13. Caracteres especiais/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/12. Mais componentes de formularios/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/11. Formularios/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/10. Mais sobre tabelas/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/09. Tabelas/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/08. Links/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/08. Links/contato.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/08. Links/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/07. Imagens/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/06. Listas ordenadas e não ordenadas/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/05. Formatações de texto/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/04. Paragrafos/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/03. Cabecalhos/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/02. Estrutura basica pagina HTML - parte 2/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/03. Cabeçalhos/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/02. Estrutura de uma pagina web - parte 2/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/01. Estrutura de uma pagina web - parte 1/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/README.md",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/3. HTML 5/HTML5/01. Estrutura pagina web/projeto.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/6. HTML5 e CSS3 Recursos especiais/HTML5 e CSS3 Recursos especiais/01. Normalize CSS/CSS3 recursos/normalize.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/6. HTML5 e CSS3 Recursos especiais/HTML5 e CSS3 Recursos especiais/01. Normalize CSS/CSS3 recursos/css/estilo.css",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/6. HTML5 e CSS3 Recursos especiais/HTML5 e CSS3 Recursos especiais/01. Normalize CSS/CSS3 recursos/css/normalize.css",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/6. HTML5 e CSS3 Recursos especiais/HTML5 e CSS3 Recursos especiais/01. Box Sizing & Cantos arredondados/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/6. HTML5 e CSS3 Recursos especiais/HTML5 e CSS3 Recursos especiais/01. Box Sizing & Cantos arredondados/css/estilo.css",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/11.3 CSS Background.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/8.2 Tipos de fontes.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/8.3 Fontes seguras para utilizar em seus projetos.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/4. CSS 3/CSS 3/4.1 3-arquivos-da-aula-seletores/inline_style.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/5. CSS3 Intermediário & avançado/1-projetos/CSS3 Intermediário & avançado/19. Site de Notícias Cidades - Área de notícias/index.html",
+		"/C/Users/Lenovo/Desktop/Desenvolvimento Web/5. CSS3 Intermediário & avançado/1-projetos/CSS3 Intermediário & avançado/19. Site de Notícias Cidades - Área de notícias/fotos.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 366.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
